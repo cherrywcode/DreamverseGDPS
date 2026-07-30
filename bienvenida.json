@@ -2,21 +2,21 @@
   {
     "title": "Cherry",
     "description": "Disfruta tus mejoras en Geometry Dash!",
-    "icon": "WelcomeIcon_01.png"_spr,
+    "icon": "WelcomeIcon_01.png",
     "background": 2,
     "event": false
   },
   {
     "title": "Dreamverse Team",
     "description": "Gracias por jugar nigger",
-    "icon": "WelcomeIcon_01.png"_spr,
+    "icon": "WelcomeIcon_01.png",
     "background": 4,
     "event": false
   },
   {
     "title": "Evento Especial",
     "description": "Hola",
-    "icon": "WelcomeIcon_01.png"_spr,
+    "icon": "WelcomeIcon_01.png",
     "background": 3,
     "event": true
   }
