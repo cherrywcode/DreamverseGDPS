@@ -18,6 +18,6 @@
     "description": "Hola",
     "icon": "WelcomeIcon_01.png",
     "background": 3,
-    "event": true
+    "event": false
   }
 ]
