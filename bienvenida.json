@@ -1,23 +1,51 @@
 [
   {
-    "title": "Cherry",
-    "description": "Disfruta tus mejoras en Geometry Dash!",
+    "title": "Los Osos Boldo",
+    "description": "Quienes Somos?",
     "icon": "WelcomeIcon_01.png",
-    "background": 2,
+    "background": 1,
     "event": false
   },
   {
-    "title": "Dreamverse Team",
-    "description": "Gracias por jugar nigger",
-    "icon": "WelcomeIcon_01.png",
+    "title": "ZeikoBw",
+    "description": "Hola soy el Creador del Mod jajaja",
+    "icon": "WelcomeIcon_02.png",
     "background": 4,
     "event": false
   },
   {
-    "title": "Evento Especial",
-    "description": "Hola",
-    "icon": "WelcomeIcon_01.png",
+    "title": "Lexitawa",
+    "description": "Hola @moge",
+    "icon": "WelcomeIcon_03.png",
+    "background": 5,
+    "event": false
+  },
+  {
+    "title": "Lexitawa",
+    "description": "Ylee",
+    "icon": "WelcomeIcon_03.png",
+    "background": 5,
+    "event": false
+  },
+  {
+    "title": "Rev Odin tang tang",
+    "description": "Cherry, revisa Discord",
+    "icon": "WelcomeIcon_04.png",
+    "background": 5,
+    "event": false
+  },
+  {
+    "title": "Naoya Zenin",
+    "description": "Hido na, hido no kokora toka nainka?",
+    "icon": "WelcomeIcon_05.png",
     "background": 3,
+    "event": false
+  },
+  {
+    "title": "Cherry'wCode",
+    "description": "Hola Chicos, Soy el creador del Mod",
+    "icon": "WelcomeIcon_06.png",
+    "background": 2,
     "event": false
   }
 ]
